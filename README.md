@@ -16,9 +16,9 @@
  - How to get started with speech AI in your business with NVIDIA Riva
 
 <p align="center" width="100%">
-    <img width="33%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201486263-913baff4-dca2-4a7a-95c3-4c2ffe3eeafb.png"> 
-    <img width="33%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201486306-a31ba903-f4f8-45c1-9311-3ecc1d0da19c.png"> 
-    <img width="33%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201486322-c6810df0-41d9-46c8-a0a4-d0c0f5736fbd.png"> 
+    <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201486263-913baff4-dca2-4a7a-95c3-4c2ffe3eeafb.png"> 
+    <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201486306-a31ba903-f4f8-45c1-9311-3ecc1d0da19c.png"> 
+    <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201486322-c6810df0-41d9-46c8-a0a4-d0c0f5736fbd.png"> 
 </p>
 
 # Overview of Zero-Shot Multi-speaker TTS Systems
@@ -49,6 +49,6 @@
 
 # Unlocking Speech AI Technology for Global Language Users
 <p align="center" width="100%">
-    <img width="50%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201486902-4af67fd6-0739-497e-ae09-32cbee1cd47c.png">
-    <img width="50%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201486949-5027f662-9193-484c-8246-56136fbf60a9.png">
+    <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201486902-4af67fd6-0739-497e-ae09-32cbee1cd47c.png">
+    <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201486949-5027f662-9193-484c-8246-56136fbf60a9.png">
 </p>
